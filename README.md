@@ -22,6 +22,7 @@ To run this application, simply open the `index.html` file in a web browser. The
 4. **Delete a Task**: Click the trash icon next to the task to remove it from the list.
 5. **Filter Tasks**: Click on the filter buttons to view tasks based on their completion status (All, Completed, or Pending).
 
-## Contributing
+## Preview
 
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
+<img width="661" alt="image" src="https://github.com/Courtneyquinn123/ToDoList/assets/49349562/901938ad-2895-4607-9cda-779f7bcc23be">
+
